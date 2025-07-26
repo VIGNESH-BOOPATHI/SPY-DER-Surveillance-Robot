@@ -46,14 +46,3 @@ Live video feed is streamed from the robot to the user over the browser.
 4. Raspberry Pi streams live video using the webcam and OpenCV.
 
 ---
-
-## 📁 Project Structure:
-
-├── arduino-code/
-│ └── movement.ino
-├── python-scripts/
-│ ├── app.py
-│ ├── speech.py
-├── media/
-│ ├── screenshots, demo video (optional)
-├── README.md
